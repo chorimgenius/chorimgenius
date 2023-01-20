@@ -48,8 +48,11 @@
   <br>
   <br>
 
-  ![chorimgenius's github stats](https://github-readme-stats.vercel.app/api?username=chorimgenius&show_icons=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chorimgenius&show_icons=true&theme=transparent)
 
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fjetaime95&count_bg=%237AE8F8&title_bg=%23555555&icon=python.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
+
+#
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fmarinred&count_bg=%23C693FF&title_bg=%23555555&icon=whitesource.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+ </div>
